@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AppBlocker</string>
+    <string name="settings_accessibility_service_description">Enable for app blocking to work</string>
+</resources>
